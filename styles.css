@@ -280,28 +280,28 @@ a:focus,
 }
 
 .parallax.img1 {
-    background-image: url('images/icecream1.webp');
+    background-image: url('icecream1.webp');
     height: 100%;
     background-size: cover;
 }
 
 .parallax.img2 {
-    background-image: url('images/topping.jpg');
+    background-image: url('topping.jpg');
     height: 608px;
 }
 
 .parallax.img3 {
-    background-image: url('images/flavours.jpg');
+    background-image: url('flavours.jpg');
     height: 608px;
 }
 
 .parallax.img4 {
-    background-image: url('images/icecream.jpg');
+    background-image: url('icecream.jpg');
     height: 608px;
 }
 
 .parallax.img5 {
-    background-image: url('images/nice-cream.jpg');
+    background-image: url('nice-cream.jpg');
     height: 608px;
 }
 
